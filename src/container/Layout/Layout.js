@@ -1,11 +1,12 @@
 import React, { Component } from "react";
+import SortApp from "../SortApp/SortApp";
 
 class Layout extends Component {
   render() {
     return (
       <React.Fragment>
         <div>Nav</div>
-        <div>Sorting App</div>
+        <SortApp />
       </React.Fragment>
     );
   }

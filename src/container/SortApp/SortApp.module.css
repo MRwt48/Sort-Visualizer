@@ -1,0 +1,5 @@
+.sortDiv {
+  display: flex;
+  align-items: flex-end;
+  min-height: 550px;
+}
